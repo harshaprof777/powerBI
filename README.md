@@ -12,6 +12,8 @@ AtliQ Hardware is a growing company with multiple departments such as sales, fin
 - **Inefficient Decision-Making:** Decision-making processes are slow and less effective due to the lack of a holistic view of the business.
 - **Manual Reporting:** Departments rely on manual reporting processes that are time-consuming and prone to errors.
 - **Limited Accessibility:** Key stakeholders do not have easy access to real-time data, limiting their ability to respond to business changes promptly.
+- **Live Dashboard**[LINK](https://www.novypro.com/profile_projects/sai-harshavardhan-kandlakuti)
+
 
 ### Objective
 To create a comprehensive Business Intelligence (BI) solution that consolidates data from all departments into a unified dashboard, providing a 360-degree view of the company’s performance. This solution aims to enhance data accessibility, standardize metrics, improve decision-making, and drive business growth.

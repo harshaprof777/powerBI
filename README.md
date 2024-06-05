@@ -13,6 +13,7 @@ AtliQ Hardware is a growing company with multiple departments such as sales, fin
 - **Manual Reporting:** Departments rely on manual reporting processes that are time-consuming and prone to errors.
 - **Limited Accessibility:** Key stakeholders do not have easy access to real-time data, limiting their ability to respond to business changes promptly.
 - **Live Dashboard**[LINK](https://www.novypro.com/profile_projects/sai-harshavardhan-kandlakuti)
+- **Power BI Dashboard** [Link](https://app.powerbi.com/view?r=eyJrIjoiYWEzNGY1M2QtYmEzMS00NjUzLTk1ZmYtMjg0MmQ3MTczMjE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ### Objective

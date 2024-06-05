@@ -33,15 +33,5 @@ To create a comprehensive Business Intelligence (BI) solution that consolidates 
 - **Business Growth:** By leveraging data-driven insights, AtliQ Hardware aims to improve its business performance and achieve a 10% increase in business progress.
 
 This problem statement sets the stage for developing a comprehensive BI solution using Power BI, aimed at transforming how AtliQ Hardware manages and utilizes its data.
-## Screenshots
 
-### Dashboard Overview
-![Dashboard Overview]("C:\Users\saira\OneDrive\Desktop\Data Science Journey\CodeBasics\PowerBI\Data Model.png")
 
-### Sales Analysis
-![Sales Analysis](./screenshots/sales-analysis.png)
-## Repository Structure
-- **/data:** Contains the data files used for the project.
-- **/reports:** Contains the exported Power BI report files (.pbix).
-- **/scripts:** Contains any scripts used for data processing and analysis.
-- **/docs:** Documentation related to the project.

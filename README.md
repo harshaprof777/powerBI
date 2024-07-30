@@ -12,7 +12,7 @@ AtliQ Hardware is a growing company with multiple departments such as sales, fin
 - **Inefficient Decision-Making:** Decision-making processes are slow and less effective due to the lack of a holistic view of the business.
 - **Manual Reporting:** Departments rely on manual reporting processes that are time-consuming and prone to errors.
 - **Limited Accessibility:** Key stakeholders do not have easy access to real-time data, limiting their ability to respond to business changes promptly.
-- **Live Dashboard**[LINK](https://www.novypro.com/profile_projects/sai-harshavardhan-kandlakuti)
+- **Live Dashboard**[LINK](https://www.novypro.com/profile_projects/sai-harshavardhan-kandlakuti?Popup=memberProject&Data=1717612052508x250291810941135170)
 - **Power BI Dashboard** [Link](https://app.powerbi.com/view?r=eyJrIjoiYWEzNGY1M2QtYmEzMS00NjUzLTk1ZmYtMjg0MmQ3MTczMjE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
